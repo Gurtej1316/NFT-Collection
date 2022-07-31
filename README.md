@@ -9,9 +9,9 @@
 
 Try running some of the following tasks:
 
-npx hardhat help
-npx hardhat test
-GAS_REPORT=true npx hardhat test
-npx hardhat node
-npx hardhat run scripts/deploy.js 
+1.npx hardhat help .
+2. npx hardhat test.
+3. npx hardhat test.
+4.npx hardhat node.
+5.npx hardhat run scripts/deploy.js. 
 
